@@ -26,18 +26,30 @@ I know there are magnificent tools like Windhawk and such but I'm an old fox who
   
 In my basic install I always use:  
 
--[Terminal preview](https://github.com/microsoft/terminal)
--[Powershell preview](https://github.com/PowerShell/PowerShell)
--[Midnight Commander](https://sourceforge.net/projects/mcwin32/)
--[Zoxide](https://github.com/ajeetdsouza/zoxide)
--[LF](https://github.com/gokcehan/lf) 
--[fzf](https://github.com/junegunn/fzf)
--[PSFzf](https://github.com/kelleyma49/PSFzf) please read the readme here for optimal use
--[Bottom, a system monitor in terminal](https://github.com/ClementTsang/bottom)
--[Oh my Posh](https://ohmyposh.dev/)
--[Komorebi](https://github.com/LGUG2Z/komorebi)
--[Flow Launcher](https://www.flowlauncher.com/), make sure after you install everything to change the options in the plugin Explorer settings to Everything you'll never want to live without it again on your computer.
--[Everything](https://www.voidtools.com/downloads/)
+-[Terminal preview](https://github.com/microsoft/terminal)  
+
+-[Powershell preview](https://github.com/PowerShell/PowerShell)  
+
+-[Midnight Commander](https://sourceforge.net/projects/mcwin32/)  
+
+-[Zoxide](https://github.com/ajeetdsouza/zoxide)  
+
+-[LF](https://github.com/gokcehan/lf)   
+
+-[fzf](https://github.com/junegunn/fzf)  
+
+-[PSFzf](https://github.com/kelleyma49/PSFzf) please read the readme here for optimal use  
+
+-[Bottom, a system monitor in terminal](https://github.com/ClementTsang/bottom)  
+
+-[Oh my Posh](https://ohmyposh.dev/)  
+
+-[Komorebi](https://github.com/LGUG2Z/komorebi)  
+
+-[Flow Launcher](https://www.flowlauncher.com/), make sure after you install everything to change the options in the plugin Explorer settings to Everything you'll never want to live without it again on your computer.  
+
+-[Everything](https://www.voidtools.com/downloads/)  
+
 
   
 I strongly recommend to install one or two [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
