@@ -1,6 +1,6 @@
 # ricingconfigs
 A repository where I save the configs I use for my ricing adventures
-
+<br>
 The will be categorized by theme and than in dirs where i keep the config files... base directory is ~ (or User home)
 All files are used in windows and I guarantee they only work in windows.
 
